@@ -1,0 +1,90 @@
+.logo{
+    width: 50px;
+}
+.header{
+    padding: 0px 10px;
+    color: black;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    width: auto;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.Opit{
+    text-align: center;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    display: flex;
+    height: auto;
+}
+h2{
+    color: palevioletred;
+    text-align: left;
+}
+h1{
+    color: dodgerblue;
+    text-align: center;
+}
+.gde{
+    background-color: rgb(241, 241, 241);
+    width: 320px;
+    text-align: left;
+    border-radius: 15px;
+    height: 130px;
+}
+.pro{
+    font-size: 16px;
+}
+.rus{
+    color: gray;
+}
+h4{
+    padding: 0px 20px 0px;
+    color: palevioletred;
+}
+h5{
+    padding: 0px 20px 0px;
+}
+menu{
+    background-color: rgb(247, 247, 247);
+}
+.txt{
+    padding: 0px 70px 0px;
+    text-align: left;
+}
+.Languages{
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.lan{
+    background-color: rgb(240, 240, 240);
+    font-size: 20px;
+    width: 250px;
+    text-align: left;
+    height: 50px;
+    border-radius: 20px;
+    padding: 1px 0px 8px 12px;
+    margin: 25px;
+    display: flex;
+}
+.blue{
+    font-size: 30px;
+    color: deepskyblue;
+}
+.res{
+    margin: 20px
+}
+.as{
+    margin: 0px 0px 0px 25px;
+}
+.lang{
+    display: flex;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}

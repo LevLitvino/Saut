@@ -1,0 +1,59 @@
+.sul{
+    text-align: right;
+    padding: 5px 50px;
+}
+.header{
+    padding: 0px 10px;
+    color: black;
+    text-decoration: none;
+}
+.home{
+    margin: 50px 50px 100px 150px
+}
+.logo{
+    width: 50px;
+}
+header{
+    display: flex;
+    width: auto;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.name{
+    font-size: 75px;
+}
+.podname{
+    font-size: 25px;
+    color: rgb(118, 119, 119);
+}
+h1{
+    margin: 0px;
+    padding: 50px 0px 0px;
+}
+h3{
+    margin: 10px;
+}
+.HELLO{
+    font-size: 15px;
+}
+.aboutme{
+    margin:50px 50px 100px 150px;
+    text-align: center;
+}
+.blue{
+    color: rgb(0, 217, 255);
+    text-align: left;
+}
+.about{
+    font-size: 25px;
+}
+.work{
+    height: 200px;
+}
+footer{
+    font-size: 10px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}

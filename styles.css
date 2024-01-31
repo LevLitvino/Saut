@@ -1,0 +1,91 @@
+.logo{
+    width: 50px;
+}
+.sul{
+    text-align: right;
+    padding: 5px 50px;
+}
+.header{
+    padding: 0px 10px;
+    color: black;
+    text-decoration: none;
+}
+.home{
+    margin: 50px 50px 100px 150px
+}
+.logo{
+    width: 50px;
+}
+header{
+    display: flex;
+    width: auto;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+.name{
+    font-size: 75px;
+}
+.podname{
+    font-size: 25px;
+    color: rgb(118, 119, 119);
+}
+h1{
+    margin: 0px;
+    padding: 50px 0px 0px;
+}
+h3{
+    margin: 10px;
+}
+.HELLO{
+    font-size: 15px;
+}
+.About{
+    margin: 50px 50px 100px 150px;
+    text-align: center;
+}
+h2{
+    color: palevioletred;
+}
+.Pro{
+    color: rgb(35, 156, 255);
+    text-align: center;
+    font-size: 50px;
+    margin: 20px;
+}
+.gg{
+    font-size: 30px;
+}
+body{
+    background-color: rgb(247, 247, 247);
+}
+.project{
+    background-color: white;
+    height: 320px;
+    display: flex;
+    border-radius: 30px;
+}
+.as{
+    width: 300px;
+}
+.Txt{
+    margin: 60px 0px 0px 40px;
+}
+.Botton{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px 0px 0px 0px;
+}
+.Bot{
+    background-color: rgb(53, 53, 53);
+    width: 150px;
+    height: 50px;
+    justify-content: center;
+    display: flex;
+    border-radius: 10px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
